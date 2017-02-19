@@ -1,2 +1,3 @@
 # Arduino.-Auto-Watering.-
-Arduino. Автоматический полив газона. Ч. 1. Automatic watering. 
+Arduino. Автоматический полив газона. Automatic watering. 
+Все файлы должны быть в одном каталоге. All files leave in the same directory.
